@@ -1,7 +1,7 @@
-This is file 1......!!!
-Welcome to Git......!!!
+This is File 1......!!!
+Welcome to Git*********
 
 
-change1
+change1...................
 
-change2
+change2..................................
